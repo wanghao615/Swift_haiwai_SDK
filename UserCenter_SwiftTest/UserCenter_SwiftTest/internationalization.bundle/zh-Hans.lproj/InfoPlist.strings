@@ -1,0 +1,145 @@
+/* 
+  InfoPlist.strings
+  KingNetSDK
+
+  Created by niujf on 2019/2/20.
+  Copyright © 2019年 niujf. All rights reserved.
+*/
+
+/**********************登录模块****************/
+"KN_Agree" = "同意";
+"KN_AgreeGameProtocol" = "《遊戲服務條款》";
+"KN_AgreeUserProtocol" = "《個人信息收集及使用條款》";
+"KN_NoAgreeUserProtocol" = "請同意《遊戲服務條款》和《個人信息收集及使用條款》";
+"KN_Login" = "登录";
+"KN_LoginType" = "请选择登录方式";
+"KN_LoginTourists" = "游客登录";
+"KN_LoginEmail" = "邮箱账号登录";
+"KN_LoginEmailAccount" = "请输入邮箱账号";
+"KN_LoginPassWord" = "请输入密码";
+"KN_LoginRegister" = "注册账号";
+"KN_LoginOnlyRegister" = "注册";
+"KN_LoginRetrievePassword" = "找回密码";
+"KN_LoginWelcome" = "欢迎";
+"KN_LoginError" = "邮箱账号或密码错误";
+"KN_Tourists" = "游客";
+"KN_LoginJustEmail" = "请输入邮箱";
+"KN_LoginWriteCode" = "输入验证码";
+"KN_LoginSendCode" = "发送验证码";
+"KN_LoginPassRule" = "密码（6-20位，英文/数字)";
+"KN_LoginAgreement" = "我已阅读并同意所有协议";
+"KN_LoginAgreementAll" = "我已阅读并同意全部协议";
+"KN_LoginAgreementToast" = "请先阅读并同意全部协议";
+"KN_LoginSetPass" = "请设置登录密码";
+"KN_LoginSMSSendSuccess" = "验证码发送成功";
+"KN_LoginCheckRegulations" = "查看协议";
+"KN_LoginSeconds" = "秒";
+"KN_LoginMinutes" = "分";
+"KN_LoginPassAgain" = "再次发送";
+"KN_LoginJustEmailError" = "邮箱输入错误";
+"KN_LoginRegisterSuccess" = "注册成功";
+"KN_LoginCodeError" = "验证码错误";
+"KN_LoginRegulations" = "个人信息收集与使用同意协议";
+"KN_LoginGameRegulations" = "游戏服务使用协议";
+"KN_LoginNext" = "下一步";
+"KN_LoginAccountNoExsit" = "输入的邮箱密码不存在";
+"KN_LoginAccount" = "账号";
+"KN_LoginByEmail" = "通过邮箱";
+"KN_LoginByPhone" = "通过手机";
+"KN_Phone" = "手机";
+"KN_LoginCertificationSuccess" = "认证成功，请设置新密码";
+"KN_LoginNewPassAndRule" = "新密码（6-20位，英文/数字）";
+"KN_LoginNewPass" = "确认新密码";
+"KN_LoginSumit" = "提交";
+"KN_LoginPassResetSuccess" = "密码设置成功";
+"KN_LoginStartGame" = "开始游戏";
+"KN_LoginContinueGame" = "继续游戏";
+"KN_LoginPassDis" = "密码最少6个字符，最多20个字符";
+"KN_LoginModifyPass" = "修改密码";
+"KN_LoginByOriginPass" = "通过原密码";
+"KN_LoginWriteOriginPass" = "输入原密码";
+"KN_LoginPasswordInconsistent" = "密码不一致";
+"KN_LoginAccountLength" = "邮箱长度最多50位";
+"KN_LoginCodeLength" = "请输入6位验证码";
+"KN_LoginGameCenterDes" = "请求次数过多，请尝试重启应用或直接前往GameCenter进行授权";
+/**********************个人中心****************/
+"KN_User" = "个人中心\n";
+"KN_UserBindingAccount" = "绑定账号";
+"KN_UserNoBinding" = "未绑定";
+"KN_UserHasBinding" = "绑定";
+"KN_UserBindingPhone" = "绑定手机";
+"KN_UserBindingPhoneSuccess" = "绑定手机成功";
+"KN_UserBindingInputPhoneN" = "输入手机号";
+"KN_UserBindingInputCorrectPhoneN" = "请输入正确的手机号";
+"KN_UserBindingPhoneDes" = "请输入以下信息绑定手机号，手机号可用于找回密码";
+"KN_UserBindingThird" = "绑定第三方";
+"KN_UserPrefAccount" = "切换账号";
+"KN_UserBindRemind" = "请输入以下信息建立账号并绑定。该账号也可作为登录使用";
+"KN_UserBindingSuccess" = "绑定账号成功。可使用此账号登录";
+"KN_UserBindFailure" = "绑定账号失败。该账号已存在游戏角色";
+"KN_Back" = "返回";
+"KN_ContinueGame" = "继续游戏";
+"KN_UserBindingNoEmail" = "输入的邮箱账号不存在，为您新建账户。为了下次登录，请为新账户设置密码";
+"KN_UserExit" = "确定要退出登录吗";
+"KN_UserAccountUpgrade" = "账号升级";
+"KN_UserAccountSuspensionUpgrade" = "账号升级\n";
+"KN_UserBindingAccountUpgrade" = "通过绑定下列账号可升级账号";
+"KN_UserAccountDes" = "为了绑定账号，请输入以下信息。若没有账号，则为您新建一个账号";
+"KN_UserAccountUpgradeSuccess" = "账号升级成功";
+"KN_UserAccountUpgradeFailure" = "账号升级失败，该账号已有游戏角色存在";
+"KN_UserAccountBindingSuccess" = "账号绑定成功";
+"KN_UserAccountRemind" = "为了您的账号安全，请尽快升级当前账号";
+"KN_UserNext" = "下次";
+"KN_UserUpgradeImmediately" = "立即升级";
+"KN_Confirm" = "确定";
+"KN_Cancel" = "取消";
+
+/**********************客服中心****************/
+"KN_Service" = "客服中心\n";
+"KN_ServiceFeedback" = "问题反馈";
+"KN_ServiceCheckMyFeedback" = "查看我的反馈";
+"KN_ServiceType" = "类型";
+"KN_ServiceStatus" = "状态";
+"KN_ServiceAboutAccount" = "账号问题";
+"KN_ServiceTitle" = "标题";
+"KN_ServiceCotent" = "正文";
+"KN_ServiceTitleDes" = "请填写您遇到问题的标题，不超过30个字";
+"KN_ServiceAccountInfo" = "为了便于快速处理问题，请输入您的游戏账号，游戏区，角色名.字数限制300字";
+"KN_ServiceContact" = "联系方式";
+"KN_ServiceContactType" = "(选填)请输入能联系到的邮箱/手机";
+"KN_ServiceSumitSuccess" = "问题反馈提交成功";
+"KN_ServiceProcessed" = "待处理";
+"KN_ServiceProcessedSuccess" = "处理完成";
+"KN_ServiceProcessing" = "处理中";
+"KN_ServiceReplied" = "已回复";
+"KN_ServiceAdditionalQuestions" = "追加提问";
+"KN_ServiceFeedBackDetail" = "反馈详情";
+"KN_ServiceSerialNumber" = "编号";
+"KN_ServiceReply" = "答复";
+"KN_ServiceSumitFeed" = "提交反馈";
+"KN_ServiceFeedbackTitle" = "请输入反馈标题";
+"KN_ServiceFeedbackContent" = "请输入问题描述";
+"KN_ServiceReplyContent" = "追加提问";
+"KN_ServiceReplyContentDetail" = "为了尽快帮您解决问题，建议您按照客服的反馈提供相关信息，祝您游戏愉快~";
+"KN_ServicePlayerReply" = "我的回复";
+"KN_ServiceReplyQues" = "客服";
+"KN_ServiceSumitContent" = "内容 *";
+/********************** 社区中心****************/
+"KN_Community" = "社区(论坛)\n";
+
+//naver
+"NaverAuthBannerMessage" = "通过NAVER App 便捷登录";
+"NaverAuthBannerDownloadLinkMessage" = "下载APP";
+//网络
+"KN_NetWorkBroken" = "当前网络不佳，请您检查网络后重试";
+//内购
+"KN_IAP" = "付款中...";
+"KN_IAPSuccess" = "支付购买成功";
+"KN_IAPFail" = "购买失败";
+"KN_IAPNoProduct" = "没有此商品信息";
+"KN_IAPCheck" = "校验订单中...";
+"KN_IAPGetOrder" = "获取订单号中...";
+"KN_IAPGetIAPinfo" = "获取商品信息中...";
+"KN_IAPOnlyKo" = "请使用韩国区苹果账号支付";
+
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GoogleService</key>
+	<dict>
+		<key>clientID</key>
+		<string>94856967605-sadosj9e8p3n0ag8an49d8gkuer5cpgh.apps.googleusercontent.com</string>
+	</dict>
+	<key>TwitterService</key>
+	<dict>
+		<key>consumerKey</key>
+		<string>4AIIiBmYkTjjo58zv7yrj1fWz</string>
+		<key>consumerSecret</key>
+		<string>zRtUMM4JO1tuAjePCZraadPth9OHsnA0BCoa1Cxb5VBVw5K53g</string>
+	</dict>
+	<key>LineService</key>
+	<dict>
+		<key>channelID</key>
+		<string>1654027094</string>
+	</dict>
+	<key>NaverService</key>
+	<dict>
+		<key>consumerKey</key>
+		<string>rvQEs78nYPW46oQuFUrF</string>
+		<key>consumerSecret</key>
+		<string>vSx3bMESQF</string>
+		<key>appName</key>
+		<string>전함대전</string>
+		<key>urlScheme</key>
+		<string>KRBattles</string>
+	</dict>
+	<key>AdjustService</key>
+	<dict>
+		<key>appToken</key>
+		<string>xlbqmva43sao</string>
+	</dict>
+	<key>FacebookService</key>
+	<true/>
+</dict>
+</plist>

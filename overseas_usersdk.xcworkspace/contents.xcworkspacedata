@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:UserCenterSDK/UserCenterSDK.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UserCenter_OCTest/UserCenter_OCTest.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UserCenter_SwiftTest/UserCenter_SwiftTest.xcodeproj">
+   </FileRef>
+</Workspace>

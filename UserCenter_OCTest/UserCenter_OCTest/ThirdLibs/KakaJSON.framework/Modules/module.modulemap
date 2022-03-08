@@ -1,0 +1,4 @@
+framework module KakaJSON {
+  header "KakaJSON-Swift.h"
+  requires objc
+}

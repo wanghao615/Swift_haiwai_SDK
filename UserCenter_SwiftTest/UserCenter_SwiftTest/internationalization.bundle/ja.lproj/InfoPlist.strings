@@ -1,0 +1,133 @@
+/* 
+  InfoPlist.strings
+  KingNetSDK
+
+  Created by niujf on 2019/2/20.
+  Copyright © 2019年 niujf. All rights reserved.
+*/
+
+/**********************登录模块****************/
+"KN_Agree" = "同意";
+"KN_AgreeGameProtocol" = "「ゲーム利用規約」";
+"KN_AgreeUserProtocol" = "「個人情報の収集および使用条件」";
+"KN_Login" = "ログイン";
+"KN_LoginType" = "るグイン方法を選んでください";
+"KN_LoginTourists" = "ゲストでログイン";
+"KN_LoginEmail" = "メールアカウントで登録";
+"KN_LoginEmailAccount" = "メールアドレスを入力してください";
+"KN_LoginPassWord" = "パスワードを入力してください";
+"KN_LoginRegister" = "新規登録";
+"KN_LoginOnlyRegister" = "登録";
+"KN_LoginRetrievePassword" = "パスワードを取り戻す";
+"KN_LoginWelcome" = "ようこそ";
+"KN_LoginError" = "メールアドレスまたはパスワードが間違っています";
+"KN_Tourists" = "ゲスト";
+"KN_LoginJustEmail" = "メールアドレスを入力してください";
+"KN_LoginWriteCode" = "認証コードを入力してください";
+"KN_LoginSendCode" = "認証コードを送信する";
+"KN_LoginPassRule" = "パスワード（6-20桁、ローマ字/数字）";
+"KN_LoginAgreement" = "すべての規約を読んで同意します";
+"KN_LoginAgreementAll" = "すべての規約を読んで同意します";
+"KN_LoginAgreementToast" = "先にすべての規約を読み、同意してください";
+"KN_LoginSetPass" = "登録用のパスワードを設定してください";
+"KN_LoginSMSSendSuccess" = "認証コードの送信に成功しました";
+"KN_LoginCheckRegulations" = "規約を見る";
+"KN_LoginSeconds" = "秒";
+"KN_LoginMinutes" = "分";
+"KN_LoginPassAgain" = "再度認証コードを送信する";
+"KN_LoginJustEmailError" = "メールアドレスが間違っています";
+"KN_LoginRegisterSuccess" = "登録成功";
+"KN_LoginCodeError" = "認証コードが間違っています";
+"KN_LoginRegulations" = "個人情報の収集および使用同意書";
+"KN_LoginGameRegulations" = "ゲームサービス利用規約";
+"KN_LoginNext" = "次へ";
+"KN_LoginAccountNoExsit" = "入力したパスワードは存在しません";
+"KN_LoginAccount" = "アカウント";
+"KN_LoginByEmail" = "メールアドレスで";
+"KN_LoginByPhone" = "モバイルで";
+"KN_Phone" = "モバイル";
+"KN_LoginCertificationSuccess" = "認証に成功、パスワードを設定してください";
+"KN_LoginNewPassAndRule" = "新しいパスワード（6-20桁、ローマ字、数字）";
+"KN_LoginNewPass" = "新しいパスワードを確認";
+"KN_LoginSumit" = "提出";
+"KN_LoginPassResetSuccess" = "パスワードの設定に成功";
+"KN_LoginStartGame" = "ゲームスタート";
+"KN_LoginContinueGame" = "ゲームを続ける";
+"KN_LoginPassDis" = "パスワードは少なくても6桁から、最大20桁まで";
+"KN_LoginModifyPass" = "パスワードを変更する";
+"KN_LoginByOriginPass" = "元のパスワードで";
+"KN_LoginWriteOriginPass" = "元のパスワードを入力してください";
+"KN_LoginPasswordInconsistent" = "パスワードが間違っています";
+"KN_LoginAccountLength" = "メールアドレスは最大50桁まで";
+"KN_LoginCodeLength" = "6桁の認証コードを入力してください";
+"KN_LoginGameCenterDes" = "リクエストが多すぎます。アプリを再起動するか、GameCenterに直接アクセスして認証してください。";
+/**********************个人中心****************/
+"KN_User" = "Myページ\n";
+"KN_UserBindingAccount" = "アカウントを連携する";
+"KN_UserNoBinding" = "まだ連携されていません";
+"KN_UserHasBinding" = "連携";
+"KN_UserBindingPhone" = "モバイルと連携";
+"KN_UserBindingPhoneSuccess" = "モバイルと連携に成功";
+"KN_UserBindingInputPhoneN" = "携帯電話番号を入力してください";
+"KN_UserBindingInputCorrectPhoneN" = "正確な携帯電話番号を入力してください";
+"KN_UserBindingPhoneDes" = "次の情報を入力して携帯電話番号を連携してください。携帯電話番号を使用してパスワードを取得できます";
+"KN_UserBindingThird" = "第三者と連携";
+"KN_UserPrefAccount" = "アカウントを切り換える";
+"KN_UserBindRemind" = "アカウントを作成してアップグレードするには、次の情報を入力してください。このアカウントはログインとしても使用できます";
+"KN_UserBindingSuccess" = "アカウントの連携に成功。アカウントのログインにも使用できます";
+"KN_UserBindFailure" = "アカウントの連携に失敗。このアカウントはゲームキャラクターにすでに存在します";
+"KN_Back" = "戻る";
+"KN_ContinueGame" = "ゲームを続ける";
+"KN_UserBindingNoEmail" = "入力したメールアカウントは存在しません、新しいアカウントを作成します。 次のログインのために、新しいアカウントのパスワードを設定してください";
+"KN_UserExit" = "本当にログアウトしますか";
+"KN_UserAccountUpgrade" = "レベルアップ";
+"KN_UserAccountSuspensionUpgrade" = "レベルアップ\n";
+"KN_UserBindingAccountUpgrade" = "次のアカウントを連携してアカウントをアップグレードします";
+"KN_UserAccountDes" = "アカウントを連携するには、次の情報を入力してください。 アカウントがない場合は、新しいアカウントを作成してください";
+"KN_UserAccountUpgradeSuccess" = "アカウントの連携に成功";
+"KN_UserAccountUpgradeFailure" = "アカウントのアップグレードに失敗、このアカウントはすでにゲームキャラクターに存在します";
+"KN_UserAccountBindingSuccess" = "アカウントの連携に成功";
+"KN_UserAccountRemind" = "アカウントのセキュリティを確保するため、できるだけ早く現在のアカウントをアップグレードしてください";
+"KN_UserNext" = "また今度";
+"KN_UserUpgradeImmediately" = "すぐにアップグレード";
+"KN_Confirm" = "確定";
+"KN_Cancel" = "キャンセル";
+
+/**********************客服中心****************/
+"KN_Service" = "お客様センター\n";
+"KN_ServiceFeedback" = "問題のフィードバック";
+"KN_ServiceCheckMyFeedback" = "自分のフィードバック";
+"KN_ServiceType" = "種類";
+"KN_ServiceStatus" = "状況";
+"KN_ServiceAboutAccount" = "アカウント問題";
+"KN_ServiceTitle" = "タイトル";
+"KN_ServiceCotent" = "テキスト";
+"KN_ServiceTitleDes" = "あなたが遭遇した問題をタイトルに入力してください、30字以内で";
+"KN_ServiceAccountInfo" = "問題を迅速に処理をするため、あなたのゲームアカウント、ゲームエリア、キャラクター名を300字以内で入力してください";
+"KN_ServiceContact" = "連絡先";
+"KN_ServiceContactType" = "連絡できるメール/モバイルを入力してください";
+"KN_ServiceSumitSuccess" = "問題のフィードバック提出に成功";
+"KN_ServiceProcessed" = "処理中";
+"KN_ServiceProcessedSuccess" = "処理完了";
+"KN_ServiceFeedBackDetail" = "フィードバック詳細";
+"KN_ServiceSerialNumber" = "番号";
+"KN_ServiceReply" = "返信";
+"KN_ServiceSumitFeed" = "フィードバック提出";
+"KN_ServiceFeedbackTitle" = "フィードバックのタイトルを入力してください";
+"KN_ServiceFeedbackContent" = "問題の説明を入力してください";
+/********************** 社区中心****************/
+"KN_Community" = "コミュニティ（フォーラム）\n";
+
+//naver
+"NaverAuthBannerMessage" = "通过NAVER App 便捷登录";
+"NaverAuthBannerDownloadLinkMessage" = "下载APP";
+//网络
+"KN_NetWorkBroken" = "ただいまネットワークが良好ではありません。ネットワークを確認して、もう一度試してください";
+//内购
+"KN_IAP" = "お支払い中…";
+"KN_IAPSuccess" = "購入の支払いに成功";
+"KN_IAPFail" = "購入失敗";
+"KN_IAPNoProduct" = "そのような製品情報はありません";
+"KN_IAPCheck" = "注文を確認...";
+"KN_IAPGetOrder" = "注文番号を取得…";
+"KN_IAPGetIAPinfo" = "製品情報を取得…";

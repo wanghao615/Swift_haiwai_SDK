@@ -1,0 +1,142 @@
+/* 
+  InfoPlist.strings
+  KingNetSDK
+
+  Created by niujf on 2019/2/20.
+  Copyright © 2019年 niujf. All rights reserved.
+*/
+
+/**********************登录模块****************/
+
+"KN_Login" = "로그인";
+"KN_LoginType" = "로그인 방법을 선택해 주세요";
+"KN_LoginTourists" = "게스트 로그인";
+"KN_LoginEmail" = "이메일 아이디 로그인";
+"KN_LoginEmailAccount" = "이메일 아이디를 입력해주세요";
+"KN_LoginPassWord" = "비밀번호를 입력해주세요";
+"KN_LoginRegister" = "회원가입";
+"KN_LoginOnlyRegister" = "가입하기";
+"KN_LoginRetrievePassword" = "비밀번호 찾기";
+"KN_LoginWelcome" = "환영합니다";
+"KN_LoginError" = "이메일 아이디 또는 비밀번호가 잘 못되었습니다";
+"KN_Tourists" = "게스트";
+"KN_LoginJustEmail" = "이메일을 입력해주세요";
+"KN_LoginWriteCode" = "인증번호 입력";
+"KN_LoginSendCode" = "인증번호 전송";
+"KN_LoginPassRule" = "비밀번호(6자리~20자리 영문/숫자)";
+"KN_LoginAgreement" = "모두 약관 확인, 동의합니다";
+"KN_LoginAgreementAll" = "모두 약관 확인, 동의합니다";
+"KN_LoginAgreementToast" = "게임 서비스 이용약관과 개인정보 수집 및 이용에 대한 약관 모두 동의해주세요.";
+"KN_LoginSetPass" = "비밀번호를 설정해주세요";
+"KN_LoginSMSSendSuccess" = "인증번호가 전송됩니다";
+"KN_LoginCheckRegulations" = "약관보기";
+"KN_LoginSeconds" = "초";
+"KN_LoginMinutes" = "분";
+"KN_LoginPassAgain" = "인증번호 재전송";
+"KN_LoginJustEmailError" = "이메일 주소가 잘못되었습니다";
+"KN_LoginRegisterSuccess" = "가입 성공";
+"KN_LoginCodeError" = "인증번호가 잘 못되었습니다";
+"KN_LoginRegulations" = "개인정보수집 및 이용동의 약관";
+"KN_LoginGameRegulations" = "게임 서비스 이용약관";
+"KN_LoginNext" = "다음";
+"KN_LoginAccountNoExsit" = "입력한 이메일 아이디를 존재하지 않았습니다";
+"KN_LoginAccount" = "아이디";
+"KN_LoginByEmail" = "이메일 인증";
+"KN_LoginByPhone" = "휴대폰 인증";
+"KN_Phone" = "휴대폰";
+"KN_LoginCertificationSuccess" = "인증에 성공하였습니다. 새 비밀번호를 설정하십시오.";
+"KN_LoginNewPassAndRule" = "새 비밀번호(6자리-20자리 영문/숫자)";
+"KN_LoginNewPass" = "새 비밀번호(확인)";
+"KN_LoginSumit" = "등록하기";
+"KN_LoginPassResetSuccess" = "비밀번호를 설정되었습니다";
+"KN_LoginStartGame" = "게임 시작";
+"KN_LoginContinueGame" = "게임 계속 하기";
+"KN_LoginPassDis" = "비밀번호 최소 길이는 6자이며, 최대 길이는 20자입니다";
+"KN_LoginModifyPass" = "암호 변경";
+"KN_LoginByOriginPass" = "현재 비밀번호 인증";
+"KN_LoginWriteOriginPass" = "현재 비밀번호 입력";
+"KN_LoginPasswordInconsistent" = "비밀번호가 일치하지 않습니다";
+"KN_LoginAccountLength" = "邮箱长度最多50位";
+"KN_LoginCodeLength" = "请输入6位验证码";
+/**********************个人中心****************/
+"KN_User" = "내 정보\n";
+"KN_UserBindingAccount" = "아이디";
+"KN_UserNoBinding" = "미연동";
+"KN_UserHasBinding" = "연동";
+"KN_UserBindingPhone" = "휴대폰";
+"KN_UserBindingPhoneSuccess" = "휴대폰 연동에 성공하였습니다";
+"KN_UserBindingInputPhoneN" = "전화번호를 입력해주세요";
+"KN_UserBindingInputCorrectPhoneN" = "올바른 전화번호를 입력해주세요";
+"KN_UserBindingPhoneDes" = "연동을 위해 다음 정보를 입력하십시오";
+"KN_UserBindingThird" = "계정 연동";
+"KN_UserPrefAccount" = "계정 전환";
+"KN_UserBindRemind" = "연동을 위해 다음 정보를 입력하여 아이디를 만드십시오. 아이디로도 로그인할 수 있습니다";
+"KN_UserBindingSuccess" = "아이디 연동을 설정되었습니다. 이 아이디로도 로그인 할 수 있습니다";
+"KN_UserBindFailure" = "아이디 연동을 실패하였습니다. 이 아이디에서 캐릭터가 이미 존재합니다";
+"KN_Back" = "이전";
+"KN_ContinueGame" = "게임 계속 하기";
+"KN_UserBindingNoEmail" = "입력한 이메일 아이디를 존재하지 않았으니 새로 만들 것입니다. 등록을 위해 비밀번호를 설정하십시오.";
+"KN_UserExit" = "정말 로그아웃 하시겠습니까?";
+"KN_UserAccountUpgrade" = "계정 업그레이드";
+"KN_UserAccountSuspensionUpgrade" = "계정 업그레이드";
+"KN_UserBindingAccountUpgrade" = "아래 계정과 연동하여 계정 업그레이드를 될수 있습니다";
+"KN_UserAccountDes" = "연동을 위해 다음 정보를 입력해 주십시오.아이디가 없다면 새로 만들 것입니다";
+"KN_UserAccountUpgradeSuccess" = "계정 업그레이드를 성공하었습니다";
+"KN_UserAccountUpgradeFailure" = "계정 업그레이드를 실패하였습니다. 이아이디에서 캐릭터가 이미 존재합니다";
+"KN_UserAccountBindingSuccess" = "계정 연동을 성공하였습니다";
+"KN_UserAccountRemind" = "계정 정보가 유실될 수도 있으니 안전성을 위하여 계정을 업그레이드 해주시기 바랍니다";
+"KN_UserNext" = "나중에";
+"KN_UserUpgradeImmediately" = "업그레이드";
+"KN_Confirm" = "확인";
+"KN_Cancel" = "취소";
+"KN_LoginGameCenterDes" = "요청 횟수가 너무 많으므로, 앱 재부팅이나 Game Center에서 직접 권한 부여를 시도하십시오";
+/**********************客服中心****************/
+"KN_Service" = "고객센터\n";
+"KN_ServiceFeedback" = "문의하기";
+"KN_ServiceCheckMyFeedback" = "나의 문의 보기";
+"KN_ServiceType" = "유형";
+"KN_ServiceStatus" = "상태";
+"KN_ServiceAboutAccount" = "계정문의";
+"KN_ServiceTitle" = "제목";
+"KN_ServiceTitleDes" = "문의하고자 하시는 내용의 키워드를 적어주세요! 30글자 이하";
+"KN_ServiceCotent" = "내용";
+"KN_ServiceAccountInfo" = "문의처리를 위해 게임 아이디, 서버, 캐릭터명을 적어주세요. 300글자 이하";
+"KN_ServiceContact" = "연락처";
+"KN_ServiceContactType" = "(선택) 유사시 연락 가능한 이메일/전화번호를 기입해주세요";
+"KN_ServiceSumitSuccess" = "문의 제출에 성공하였습니다.";
+"KN_ServiceProcessed" = "처리대기";
+"KN_ServiceProcessedSuccess" = "처리완료";
+"KN_ServiceProcessing" = "처리중";
+"KN_ServiceReplied" = "답변완료";
+"KN_ServiceFeedBackDetail" = "문의 상세 보기";
+"KN_ServiceSerialNumber" = "번호";
+"KN_ServiceReply" = "답장";
+"KN_ServiceSumitFeed" = "문의 등록";
+"KN_ServiceFeedbackTitle" = "문의 제목을 입력해주세요";
+"KN_ServiceFeedbackContent" = "문의 내용을 입력해주세요";
+"KN_ServiceReplyContent" = "추가내용";
+"KN_ServiceReplyContentDetail" = "문의처리를 위해 최대한 자세한 설명을";
+"KN_ServicePlayerReply" = "나의 추가 문의";
+"KN_ServiceReplyQues" = "답장";
+"KN_ServiceReplyContent" = "추가문의";
+"KN_ServiceReplyContentDetail" = "문의 처리를 위해 최대한 자세한 설명을 입력 해 주세요. 즐거운 게임즐기시기 바랍니다.";
+"KN_ServicePlayerReply" = "나의답변";
+"KN_ServiceReplyQues" = "고객센터";
+"KN_ServiceSumitContent" = "추가내용 *";
+/********************** 社区中心****************/
+"KN_Community" = "커뮤니티\n";
+
+//naver
+"NaverAuthBannerMessage" = "네이버 앱으로 더욱 간편하게 로그인!";
+"NaverAuthBannerDownloadLinkMessage" = "앱 다운로드";
+//网络
+"KN_NetWorkBroken" = "현재 네트워크에 연결되어 있지 않습니다, 네트워크 연결을 점검하고 다시 시도하십시오";
+//内购
+"KN_IAP" = "결제 처리 중...";
+"KN_IAPSuccess" = "결제가 완료되었습니다";
+"KN_IAPFail" = "구매에 실패했습니다";
+"KN_IAPNoProduct" = "상품 정보가 없습니다";
+"KN_IAPCheck" = "주문서 확인 중...";
+"KN_IAPGetOrder" = "주문 번호 입수 중...";
+"KN_IAPGetIAPinfo" = "상품 정보 입수 중...";
+"KN_IAPOnlyKo" = "한국 Apple ID로  지불하세요.";

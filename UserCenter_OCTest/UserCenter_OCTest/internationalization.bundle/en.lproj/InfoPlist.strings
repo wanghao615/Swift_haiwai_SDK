@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  KingNetSDK
+
+  Created by niujf on 2019/2/20.
+  Copyright © 2019年 niujf. All rights reserved.
+*/
+
+/**********************登录模块****************/
+
+"KN_Login" = "login";
+
+//naver
+"NaverAuthBannerMessage" = "Get NAVER App and sign in faster";
+"NaverAuthBannerDownloadLinkMessage" = "Download App";

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>danabaseurl</key>
+	<string>https://kdclog.gamehaza.com/dana</string>
+	<key>version</key>
+	<string>2</string>
+	<key>topic</key>
+	<string>platform_overseakr</string>
+	<key>token</key>
+	<string>4affc0b172eceaf93ab7acda46351ec6</string>
+	<key>project</key>
+	<string>platform_overseakr</string>
+</dict>
+</plist>

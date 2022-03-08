@@ -1,0 +1,14 @@
+
+module OCModule {
+    //由于module.modulemap和xxx.h是在同一个文件夹的，如果不是同一个，路径要写全
+    requires objc
+    header "SVProgressModule/SVProgressManger.h"
+    header "OtherModule/BridgeManger.h"
+    header "MJRefreshModule/NRefreshAutoNormalFooter.h"
+    header "StatisticsModule/Statistics.h"
+    header "NaverModule/NaveLoginService.h"
+    export *
+    // subs 文件夹
+    // umbrella "Subs"
+    // module * { export * }
+}
